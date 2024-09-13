@@ -27,13 +27,13 @@
 <display-name lang="en">Accrington Stanley</display-name>
 <icon src="https://archive.org/download/Accrington Stanley_202309/Accrington Stanley.jpg"/>
 </channel>
-<programme start="20240701000000 +0000" stop="20240915215959 +0000" channel="Accrington Stanley">
-<title lang="en">Tottenham Hotspur v Accrington Stanley</title>
-<desc lang="en">Next Fixture - Tottenham Hotspur v Accrington Stanley - Sunday 15th September - 14:00 Kick Off GMT - English Premier League</desc>
+<programme start="20240701000000 +0000" stop="20240914215959 +0000" channel="Accrington Stanley">
+<title lang="en">Accrington Stanley v Crewe Alexandra</title>
+<desc lang="en">Next Fixture - Accrington Stanley v Crewe Alexandra - Saturday 14th September - 15:00 Kick Off GMT - EFL League Two</desc>
 </programme>
-<programme start="20240702000000 +0000" stop="20240917215959 +0000" channel="Accrington Stanley">
-<title lang="en">EFL League Two Match</title>
-<desc lang="en">EFL League Two Match</desc>
+<programme start="20240702000000 +0000" stop="20240921215959 +0000" channel="Accrington Stanley">
+<title lang="en">Accrington Stanley v Port Vale</title>
+<desc lang="en">Next Fixture - Accrington Stanley v Port Vale - Saturday 21st September - 15:00 Kick Off GMT - EFL League Two</desc>
 </programme>
 <programme start="20240703000000 +0000" stop="20240919215959 +0000" channel="Accrington Stanley">
 <title lang="en">EFL League Two Match</title>
