@@ -231,7 +231,7 @@
 <display-name lang="en">AFC Wimbledon</display-name>
 <icon src="https://archive.org/download/AFC Wimbledon_202309/AFC Wimbledon.jpg"/>
 </channel>
-<programme start="20240701113000 +0000" stop="20240914150000 +0000" channel="AFC Wimbledon">
+<programme start="20240701113000 +0000" stop="20240914140000 +0000" channel="AFC Wimbledon">
 <title lang="en">AFC Wimbledon v MK Dons</title>
 <desc lang="en">Next Fixture - AFC Wimbledon v MK Dons - Saturday 14th September - 12:30 Kick Off GMT - EFL League Two</desc>
 </programme>
